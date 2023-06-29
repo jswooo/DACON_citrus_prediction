@@ -1,4 +1,4 @@
-# -dacon-Citrus-fruit-prediction-AI-contest
+# Dacon-Citrus-fruit-prediction-AI-contest
 데이콘 감귤 착과량 예측 AI 경진대회
 ![대회소개이미지](https://user-images.githubusercontent.com/92534659/209781272-c4640520-62ce-4965-b9f1-d68d69bea9bc.png)
 [감귤 착과량 예측 AI 경진대회](https://dacon.io/competitions/official/236038/overview/description)
